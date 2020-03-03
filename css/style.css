@@ -8,3 +8,10 @@
 		margin-left: 5px;
 	}
 }
+
+@media (max-width: 576px) {
+	.jarak{
+		margin-top: 2rem !important;
+	}
+	
+}
